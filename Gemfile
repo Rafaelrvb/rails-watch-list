@@ -6,6 +6,7 @@ ruby '2.7.3'
 gem 'autoprefixer-rails'
 gem 'bootsnap', '>= 1.4.2', require: false
 gem 'cloudinary', '~> 1.16.0'
+
 gem 'font-awesome-sass', '~> 5.12.0'
 gem 'jbuilder', '~> 2.7'
 gem 'pg', '>= 0.18', '< 2.0'
